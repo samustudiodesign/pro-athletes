@@ -1,0 +1,1032 @@
+
+.img-responsive {
+  width: 100%;
+  height: auto;
+}
+.site-header__logo-link, .site-header__logo-link:hover {
+    color: #222323;
+    margin: 0 auto;
+    text-decoration: none;
+}
+.site-header__logo-link {
+    display: block;
+}
+.margin-top-60{
+  margin-top: 60px;
+}
+
+.wrapper {
+  max-width: 1250px !important;
+  margin: 0 auto;
+  padding: 0 15px;
+}
+a {
+  text-decoration: none!important;
+}
+.top-anuncio {
+  background-color: #000000;
+  border-bottom: solid 1px #363d47;
+  text-align: center;
+}
+.content-anuncio-coach {
+  padding: 25px 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-anuncio-coach img {
+  margin-left: 15px;
+}
+.top-button-viewmore {
+  padding: 5px 30px;
+  background-color: transparent;
+  border: solid 1px #ffffff;
+  border-radius: 8px;
+  display: none;
+  color: #ffffff;
+  font-size: 12.8px;
+  margin: 0 auto;
+}
+
+.shopify-buy__btn-athletes {
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 17px;
+  padding-bottom: 17px;
+  color: #000000;
+  background-color: #efba26;
+  border: 0px;
+  border-radius: 0px 0px 20px 20px;
+  padding-left: 56px;
+  padding-right: 56px;
+  padding-top: 25px;
+  display: flex;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  margin-top: -10px;
+  text-decoration: none;
+}
+.shopify-buy__btn-athletes:hover,
+.shopify-buy__btn-athletes:focus,
+.shopify-buy__btn-athletes:active {
+  background-color: #efc758;
+  outline: none;
+  text-decoration: none;
+}
+.display-buy-athlete {
+  display: inline-block;
+  margin-top: 70px;
+  margin-bottom: 30px;
+}
+
+.display-buy-coach p {
+  font-size: 14px;
+  margin-top: 15px;
+}
+
+.shopify-buy__btn-coach {
+  font-weight: bold;
+  font-size: 18px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #ffffff;
+  background-color: #d22543;
+  border-radius: 15px;
+  padding-left: 10px;
+  padding-right: 10px;
+  display: flex;
+  width: 100%;
+  text-align: center;
+  justify-content: center;
+  margin-top: -10px;
+}
+.display-buy-coach {
+  position: relative;
+  display: inline-block;
+}
+.display-buy-coach span {
+  position: absolute;
+  top: -23px;
+  left: 20px;
+  background-color: #000000;
+  padding: 3px 18px;
+  color: #ffffff;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.display-buy-coach img {
+  position: absolute;
+  top: 12px;
+  right: 30px;
+}
+
+.separate-add {
+  margin-bottom: 40px;
+}
+
+.separate-add p {
+  font-family: WorkSans-Bold;
+  font-size: 14px;
+  color: #6c757d;
+  letter-spacing: 0;
+  text-align: center;
+  background-color: #ffffff;
+  width: 200px;
+  margin: 0 auto;
+}
+
+.separate-add .line-separate-c {
+  width: 100%;
+  height: 1px;
+  background-color: #979797;
+  margin-bottom: -15px;
+}
+
+.bk-color-2-separate p {
+  background-color: #f5f5f5;
+}
+
+html,
+body {
+  background-color: #ffffff !important;
+  font-family: "Work Sans", sans-serif !important;
+  overflow-x: hidden;
+}
+#pro-athletes {
+  font-family: "Work Sans", sans-serif !important;
+}
+h2 {
+  font-family: "Work Sans", sans-serif !important;
+}
+.site-header {
+  display: none !important;
+}
+
+#pro-athletes .wrapper.nocontainer {
+  max-width: 100% !important;
+  padding: 0px !important;
+}
+
+#pro-athletes .main-content {
+  padding-top: 0px !important;
+}
+
+p,
+li {
+  font-size: 18px;
+  letter-spacing: normal;
+  line-height: 24px;
+}
+li {
+  color: #242628;
+}
+
+.banner-athletes {
+  width: 100%;
+  max-width: 100%;
+  height: 844px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.banner-movil-athletes {
+  display: none;
+}
+
+img.logo-program-athletes {
+  margin-top: 20px;
+}
+
+.subtitle-hero {
+  font-family: "Work Sans", sans-serif !important;
+  font-size: 18px;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  color: #6c757d !important;
+  margin-top: -10px;
+}
+
+.content-hero-athletes {
+  padding: 30px 0px;
+}
+
+.content-hero-athletes2 .description-movil {
+  display: none;
+}
+
+.content-hero-athletes2 .description,
+.content-hero-athletes2 .description-movil {
+  font-weight: 400;
+  font-stretch: normal;
+  font-style: normal;
+  letter-spacing: normal;
+  color: #ffffff;
+  margin-bottom: 40px;
+}
+
+.video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-presentation iframe,
+.video-presentation {
+  width: 550px;
+  left: 0;
+  right: 0;
+  max-height: 350px;
+  margin: auto;
+  border: 1px solid #ffffff;
+}
+.video-wrapper {
+  position: relative;
+  overflow: hidden;
+  max-width: 100%;
+  padding-bottom: 56.25%;
+  height: 0;
+  height: auto;
+}
+
+.content-hero-athletes2 a.btn-primary-action {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 70px;
+  width: 250px;
+  margin: 0 auto;
+}
+
+a.btn-primary-action {
+  padding: 20px 30px;
+  border-radius: 10px;
+  background-image: linear-gradient(to bottom, #ffd15b, #ffbc3f);
+  font-size: 20px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+}
+
+.align-center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+.icon-arrows {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+.header-wrapper {
+  overflow: hidden;
+}
+
+
+.content-hero-athletes2 .note-action {
+  position: absolute;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+}
+
+.note-action {
+  font-weight: 500;
+  font-size: 14px;
+  color: #6c757d;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 21px;
+}
+.switch {
+  width: 112px;
+  height: 9px;
+  border-radius: 6px;
+  background-color: #d8d8d8;
+  margin: 0 auto;
+}
+.section-title {
+  font-size: 32px;
+  font-weight: 600;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+.pro-section {
+  padding-top: 55px;
+}
+.description-title {
+  color: #242628;
+}
+
+.collection-collage__item {
+  position: relative;
+  margin-bottom: 15px;
+  overflow: hidden;
+  /* height: 450px; */
+}
+
+.grid-athletes {
+  margin-top: 55px;
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  grid-gap: 30px;
+}
+.grid-athletes3 {
+  margin-top: 55px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+.grid-athletes4 {
+  margin-top: 55px;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 5px;
+}
+.grid-screen-program{
+  margin-top: 55px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+.large--five-sixths {
+  width: 83.333%;
+}
+.push--large--one-twelfth {
+  left: 8.333%;
+}
+[class*="push--"] {
+  position: relative;
+}
+
+.collection-collage__item.large--one-half {
+  height: 310px;
+}
+
+
+.grid-athletes .overlay-img,
+.grid-athletes3 .overlay-img {
+  position: relative;
+}
+
+.grid-athletes .overlay-img img,
+.grid-athletes3 .overlay-img img {
+  border-radius: 20px;
+}
+
+.grid-athletes .overlay-img:after,
+.grid-athletes3 .overlay-img:after {
+  content: "";
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  background-image: linear-gradient(
+    to bottom,
+    rgba(0, 0, 0, 0) 58%,
+    rgba(0, 0, 0, 0.75)
+  );
+  border-radius: 20px;
+}
+
+.h2-section {
+  font-family: "Work Sans", sans-serif !important;
+  font-size: 24px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff !important;
+  position: absolute;
+  right: 0;
+  bottom: 20px;
+  left: 0;
+  z-index: 100;
+}
+
+.col3__wrapper {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.black-section {
+  background-color: #000000;
+  padding: 60px 0px;
+  margin-top: 80px;
+}
+
+.phrase-action p {
+  font-size: 28px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #ffffff;
+}
+
+.text-style-1 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.phrase-action img {
+  width: 200px;
+  height: auto;
+  margin-top: 35px;
+}
+
+.grid-for-whom h4 {
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #000000;
+  margin-top: 20px;
+}
+
+.grid-for-whom .col3__wrapper {
+  padding: 35px;
+  background-color: #f5f5f5;
+  margin: 45px 0px;
+}
+
+.grid-for-whom .col3__wrapper p {
+  margin: 20px 0px;
+}
+
+.description-abouttrainer {
+  padding-left: 70px;
+  margin-top: 70px;
+}
+
+.about-trainer {
+  background-color: #f5f5f5;
+  padding-bottom: 55px;
+  margin-top: 80px;
+}
+.colaborate-about {
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6c757d;
+}
+
+.logos-colaborate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 30px;
+}
+
+.about-program {
+  width: 100%;
+  max-width: 100%;
+  height: 630px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  position: relative;
+  overflow: hidden;
+}
+.about-program:after {
+  content: "";
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0px;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+}
+.about-program img {
+  max-width: 435px;
+  height: auto;
+  position: relative;
+  z-index: 10;
+}
+.content-about-program {
+  position: relative;
+  z-index: 11;
+}
+.content-about-program h2 {
+  color: #ffffff;
+  margin-top: 25px;
+  margin-bottom: 0px;
+}
+.badge-dark {
+  border-radius: 5px;
+  background-color: #000000;
+  padding: 5px 12px;
+  display: inline-block;
+}
+.badge-dark h4 {
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.17;
+  letter-spacing: normal;
+  text-align: center;
+  color: #efba26;
+  margin: 0px;
+  padding: 0px;
+}
+
+.content-about-program img {
+  width: 16px;
+  height: 16px;
+  margin-bottom: -28px;
+}
+
+.content-about-program p {
+  color: #ffffff;
+  padding-left: 30px;
+  margin-bottom: 0px;
+}
+.grid-screen-program img {
+  max-width: 240px;
+}
+.bonus-clase-vid {
+  max-width: 640px !important;
+  width: 100%;
+  height: auto;
+}
+.secondary-title {
+  font-family: "Work Sans", sans-serif !important;
+  font-size: 28px;
+  font-weight: 700;
+  font-stretch: normal;
+  font-style: italic;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.testimonials-colection {
+  margin-top: 0px !important;
+}
+
+.black-section h2 {
+  color: #ffffff;
+}
+
+.se-han-unido {
+  font-family: "Work Sans", sans-serif !important;
+  font-style: normal !important;
+}
+
+.no-bold {
+  font-weight: 400 !important;
+}
+
+.price-product {
+  margin-bottom: 25px;
+}
+
+.real-price-program {
+  font-size: 24px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  text-decoration: line-through;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #6c757d;
+}
+.offer-price-program {
+  font-size: 36px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #000000;
+  margin-left: 10px;
+}
+.discount-price-program {
+  border-radius: 5px;
+  background-color: #000000;
+  padding: 5px 6px;
+  font-size: 14px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #efba26;
+  margin-left: 10px;
+  position: relative;
+  bottom: 5px;
+}
+.requirements {
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #efba26;
+}
+.requirements-color2 {
+  color: #000000 !important;
+}
+
+.countdown-KT .flip-KT .card-KT {
+  animation: none;
+}
+.countdown-KT .digit-KT .card-back-KT,
+.countdown-KT .digit-KT .card-KT {
+  font-family: "Work Sans", sans-serif !important;
+  font-size: 28px !important;
+  font-weight: bold !important;
+}
+
+.countdown-KT .digit-KT {
+  margin: 0px !important;
+  width: 25px !important;
+}
+
+.countdown-KT .message-KT {
+  font-family: "Work Sans", sans-serif !important;
+  font-size: 18px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  color: #efba26;
+  border-radius: 5px;
+  background-color: #000000;
+  padding: 5px 10px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  text-transform: uppercase;
+}
+
+.counter-time {
+  margin-bottom: 20px;
+}
+
+.gray-background {
+  background-color: #f5f5f5;
+}
+.content-faqs{
+  max-width: 800px;
+  margin: 0 auto;
+  margin-top: 60px;
+}
+.product-img-program {
+  border-radius: 20px 20px 0px 0px;
+}
+.product-margin-bottom {
+  margin-bottom: 60px !important;
+}
+#shopify-section-footer .grid__item:first-child {
+  opacity: 0;
+}
+#selected-level-program .wrapper {
+  max-width: 1050px !important;
+}
+
+#selected-level-program .collection-collage__item.large--one-half {
+  height: auto !important;
+}
+
+#selected-level-program .collection-collage__item {
+  overflow: inherit !important;
+}
+.margin-t-30 {
+  margin-top: 70px;
+}
+.site-footer li {
+  font-size: 14px !important;
+}
+
+@media (max-width: 769px) {
+  .grid-athletes {
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 15px;
+  }
+  .grid-athletes3 {
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 15px;
+  }
+  .grid-athletes4 {
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 5px;
+  }
+  .grid-screen-program{
+    margin-top: 55px;
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    grid-gap: 15px;
+  }
+  .large--five-sixths {
+    width: 100%;
+  }
+  .push--large--one-twelfth{
+    left: 0%;
+  }
+  
+  .top-anuncio {
+    padding-bottom: 25px;
+  }
+  .content-anuncio-coach img:last-child {
+    display: none;
+  }
+  .top-button-viewmore {
+    display: block;
+  }
+  .content-anuncio-coach {
+    padding-bottom: 15px;
+  }
+
+  .shopify-buy__btn-coach {
+    font-size: 14px;
+  }
+  .display-buy-coach img {
+    top: 10px;
+    right: 20px;
+  }
+  .display-buy-coach p {
+    line-height: 16px;
+  }
+
+  .shopify-buy__btn-athletes {
+    padding-left: 26px;
+    padding-right: 26px;
+    font-size: 18px;
+  }
+
+  .grid-screen-program {
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important;
+    align-items: center !important;
+  }
+
+  .grid-screen-program .movil-grid-2 {
+    width: 100% !important;
+    padding-left: 15px;
+  }
+
+  .display-buy-athlete {
+    display: inline-block;
+    margin-top: 0px !important;
+  }
+
+  p.announcement-bar__message {
+    font-size: 14px !important;
+  }
+
+  .margin-t-30 {
+    margin-top: 50px;
+  }
+
+  .collection-collage__item.one-half {
+    height: auto !important;
+  }
+
+  .video-presentation iframe,
+  .video-presentation {
+    width: auto !important;
+    border: 0px;
+    transform: scale(1.05);
+    height: 200px;
+    z-index: 110;
+  }
+  .video-presentation {
+    top: 0px;
+    bottom: 0px;
+    position: absolute;
+    border: 0px;
+    left: 0px;
+    right: 0px;
+  }
+  .banner-athletes .video-wrapper {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    bottom: 0px;
+    right: 0px;
+  }
+
+  .pro-section {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .banner-athletes {
+    height: auto;
+    padding-bottom: 15px;
+    background-image: none !important;
+    background-color: #000000;
+  }
+
+  img.logo-program-athletes {
+    padding: 0px 30px;
+    width: 100%;
+    height: auto;
+  }
+
+  .site-header__logo-link {
+    text-align: center;
+  }
+
+  .banner-movil-athletes {
+    display: block;
+    position: relative;
+  }
+
+  .banner-athletes .content-hero-athletes {
+    padding: 15px 0px;
+    text-align: center;
+  }
+
+  .modal-video {
+    display: block;
+    position: absolute;
+    transform: translateY(-1000px);
+  }
+
+  .open-video-vimeo {
+    transform: translateY(0px);
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgb(0, 0, 0, 0.8);
+    z-index: 100;
+  }
+
+  .content-hero-athletes2 a.btn-primary-action {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    bottom: 0px;
+  }
+  .content-hero-athletes2 .note-action {
+    position: relative;
+    bottom: 0px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  .content-hero-athletes2 .description {
+    display: none;
+  }
+  .content-hero-athletes2 .description-movil {
+    font-size: 20px;
+    font-weight: 400;
+    display: block;
+    margin: 15px 0px 20px 0px;
+    text-align: center;
+  }
+  .subtitle-hero {
+    display: none;
+  }
+  .icon-open-modal {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 60px;
+    height: 60px;
+  }
+  .overlay-close-modal {
+    position: relative;
+    top: -280px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    width: 100%;
+    height: 750px;
+    z-index: 108;
+  }
+
+  .pro-section {
+    padding-top: 25px;
+  }
+
+  .grid-athletes {
+    margin-top: 25px;
+  }
+
+  .section-title {
+    font-size: 28px;
+    margin-top: 20px;
+  }
+
+  .overlay-img h4 {
+    font-size: 20px;
+    font-weight: 700;
+    text-transform: none;
+  }
+  .black-section {
+    padding: 30px 0px;
+    margin-top: 40px;
+  }
+  .grid-for-whom .col3__wrapper {
+    padding: 20px;
+    margin: 20px 0px;
+  }
+  .phrase-action p {
+    font-size: 24px;
+  }
+  .phrase-action img {
+    margin-top: 15px;
+  }
+  .description-abouttrainer {
+    padding: 0px 20px;
+    margin-top: 20px;
+  }
+  .about-trainer {
+    background-color: #f5f5f5;
+    padding-bottom: 25px;
+    margin-top: 40px;
+  }
+  .logos-colaborate {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .logos-colaborate img {
+    margin-bottom: 15px;
+  }
+  .about-program .grid-athletes {
+    display: flex;
+    flex-direction: column-reverse;
+  }
+  .about-program {
+    height: auto;
+  }
+  .content-about-program {
+    margin-bottom: 40px;
+  }
+  .faqs-program .grid__item {
+    padding-right: 15px;
+  }
+ 
+  .testimonials-colection .wrapper {
+    padding: 0 30px;
+  }
+  .testimonials-colection img {
+    border-radius: 20px;
+  }
+  .who-section a.btn-primary-action {
+    position: relative;
+    top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-left: 10px;
+  }
+  .product-margin-bottom {
+    margin-bottom: 0px !important;
+  }
+  .product-margin-bottom2 {
+    margin-bottom: 55px !important;
+  }
+}
