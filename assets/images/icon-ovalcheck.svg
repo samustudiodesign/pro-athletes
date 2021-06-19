@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-ovalcheck</title>
+    <g id="-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Design-LandingNEW2021-Copy-5" transform="translate(-478.000000, -1014.000000)">
+            <g id="icon-ovalcheck" transform="translate(478.000000, 1014.000000)">
+                <circle id="Oval-Copy" fill="#303030" cx="12.5" cy="12.5" r="12.5"></circle>
+                <g id="check" transform="translate(6.000000, 8.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M5.16940444,9.70927841 C5.04053852,9.83169784 4.86472046,9.9 4.68208676,9.9 C4.49945306,9.9 4.323635,9.83169784 4.19476908,9.70927841 L0.302916978,6.03311981 C-0.100972326,5.65167664 -0.100972326,5.0331427 0.302916978,4.65241474 L0.790234659,4.19206049 C1.1942502,3.81061732 1.84842464,3.81061732 2.25231394,4.19206049 L4.68208676,6.486918 L11.2476861,0.286082381 C11.6517016,-0.0953607938 12.3065071,-0.0953607938 12.7097653,0.286082381 L13.197083,0.746436629 C13.6009723,1.1278798 13.6009723,1.74629452 13.197083,2.1271417 L5.16940444,9.70927841 Z" id="Path"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
